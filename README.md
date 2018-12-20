@@ -5,8 +5,6 @@
 [fli@aws ~]$ terraform --version
 Terraform v0.11.10
 
-Your version of Terraform is out of date! The latest version
-is 0.11.11. You can update by downloading from www.terraform.io/downloads.html
 [fli@aws ~]$
 
 [fli@aws ~]$ aws --version
